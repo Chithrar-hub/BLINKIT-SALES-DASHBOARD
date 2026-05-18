@@ -151,7 +151,7 @@ The dataset contains important retail business attributes such as:
 
 10 Dashboard Preview
 
-Dashboard Screenshot(https://github.com/Chithrar-hub/BLINKIT-SALES-DASHBOARD/blob/main/Screenshot%202026-05-18%20130209.png)
+[Dashboard Screenshot](https://github.com/Chithrar-hub/BLINKIT-SALES-DASHBOARD/blob/main/Screenshot%202026-05-18%20130209.png)
 
 ---
 
